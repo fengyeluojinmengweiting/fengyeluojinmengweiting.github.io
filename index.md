@@ -3,6 +3,7 @@
 ## 邱华平
 You can use the [editor on GitHub](https://github.com/fengyeluojinmengweiting/fengyeluojinmengweiting.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 ## 文章一 [一切都需要成本](https://github.com/fengyeluojinmengweiting/fengyeluojinmengweiting.github.io/edit/master/index.md)
+Format: ![Alt Text](https://ss0.baidu.com/73t1bjeh1BF3odCf/it/u=4004014769,389605831&fm=85&s=30B06D324E9E55CC1CE5D0CE000090B1)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
