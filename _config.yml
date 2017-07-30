@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: 只是当时已惘然
+SEOTitle: 枫叶落尽的博客 |  Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
@@ -18,7 +18,7 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     枫叶落尽
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
