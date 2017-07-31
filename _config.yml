@@ -94,7 +94,7 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://www.jianshu.com/u/8a5e2f349b7b"
     },{
         title: "简书·QF",
         href: "http://www.jianshu.com/u/8a5e2f349b7b"
