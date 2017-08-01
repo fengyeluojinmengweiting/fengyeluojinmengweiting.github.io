@@ -1,9 +1,9 @@
 {
-    "name": "qfblog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "qf-blog",
+    "title": "QF Blog",
+    "author": "QF <qiufeng@163.com>",
     "version": "1.7.0",
-    "homepage": "https://fengyeluojinmengweiting.github.io/",
+    "homepage": "https://fengyeluojinmengweiting.github.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/fengyeluojinmengweiting/fengyeluojinmengweiting.github.io"
